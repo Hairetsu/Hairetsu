@@ -62,4 +62,4 @@
 
 ### 🤙 connect
 
-[website](https://your.site) • [x / twitter](https://twitter.com/yourhandle) • [github](https://github.com/hairetsucodes)
+[website](https://hairetsu.com) • [x / twitter](https://twitter.com/hairetsu) • [github](https://github.com/hairetsucodes)
