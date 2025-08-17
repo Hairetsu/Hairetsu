@@ -11,8 +11,6 @@
 — affiliate/ad tracking infra (TypeScript + Cloudflare Workers).  
 - **servertrackai** — AI-driven extensions for servertrack.  
 - **servertrack-satellite** — Go-based satellite service for distributed tracking.  
-- **namecheap-api** — lightweight Go client for Namecheap domains.  
-- **lander-rojo-original** — landing page experiments for campaigns.
 
 #### 🗣️ Voice & AI Assistants
 - **voice-assistant-backend** — Python backend for real-time assistants.  
