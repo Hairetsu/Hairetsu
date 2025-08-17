@@ -19,7 +19,7 @@ TypeScript • Go • Python • Next.js • Cloudflare Workers
 ---
 
 ### contact
-[site](https://your.site) • [twitter](https://twitter.com/yourhandle) • [github](https://github.com/hairetsucodes)
+[site](https://hairetsu.com) • [twitter](https://twitter.com/hairetsu) • [github](https://github.com/hairetsucodes)
 
 <p align="center">
   <sub>⭐ star something. my self-worth depends on it.</sub>
