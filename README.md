@@ -8,9 +8,7 @@
 ### 🚀 featured projects
 
 #### 📈 AdTech / Tracking
-— affiliate/ad tracking infra (TypeScript + Cloudflare Workers).  
-- **servertrackai** — AI-driven extensions for servertrack.  
-- **servertrack-satellite** — Go-based satellite service for distributed tracking.  
+— affiliate/ad tracking infra (TypeScript + Cloudflare Workers + Go).  
 
 #### 🗣️ Voice & AI Assistants
 - **voice-assistant-backend** — Python backend for real-time assistants.  
