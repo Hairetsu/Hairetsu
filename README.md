@@ -14,7 +14,13 @@
 ---
 
 ### stack
-TypeScript • Go • Python • Next.js • Cloudflare Workers
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
+
 
 ---
 
