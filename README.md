@@ -8,7 +8,7 @@
 ### 🚀 featured projects
 
 #### 📈 AdTech / Tracking
-- **[servertrack](https://github.com/hairetsucodes/servertrack)** — affiliate/ad tracking infra (TypeScript + Cloudflare Workers).  
+— affiliate/ad tracking infra (TypeScript + Cloudflare Workers).  
 - **servertrackai** — AI-driven extensions for servertrack.  
 - **servertrack-satellite** — Go-based satellite service for distributed tracking.  
 - **namecheap-api** — lightweight Go client for Namecheap domains.  
