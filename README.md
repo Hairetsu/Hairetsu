@@ -20,8 +20,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
-
-
+![MySQL](https://img.shields.io/badge/-Mysql-4169E1?logo=mysql&logoColor=white)
 ---
 
 ### contact
